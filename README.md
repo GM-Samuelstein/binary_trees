@@ -46,3 +46,10 @@
 |134-heap_to_sorted_array.c|A function that converts a Binary Max Heap to a sorted array of integers.|
 |135-O|Big O notations of the average time complexities of those operations on a Binary Heap.|
 |binary_trees.h|The header file.|
+
+<br />
+
+<h2 align="center">AUTHORS</h2>
+Here are the names of all individuals having contributed content to this project: <br />
+<a href="https://github.com/GM-Samuelstein">Samuel Ibitowa</a> <br />
+<a href="https://github.com/shybah1">Abdulsalam Abdulmutalib</a>
