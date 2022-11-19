@@ -32,4 +32,10 @@
 |112-array_to_bst.c|A function that builds a Binary Search Tree from an array.|
 |113-bst_search.c|A function that searches for a value in a Binary Search Tree.|
 |114-bst_remove.c|A function that removes a node from a Binary Search Tree.|
+|115-O|Big O notations of the average time complexities of those operations on a Binary Search Tree.|
+|120-binary_tree_is_avl.c|A function that checks if a binary tree is a valid <a href="https://en.wikipedia.org/wiki/AVL_tree">AVL Tree</a>.|
+|121-avl_insert.c|A function that inserts a value in an AVL Tree.|
+|122-array_to_avl.c|A function that builds an AVL tree from an array.|
+|123-avl_remove.c|A function that removes a node from an AVL tree.|
+|124-sorted_array_to_avl.c|A function that builds an AVL tree from an array.|
 |binary_trees.h|The header file.|
