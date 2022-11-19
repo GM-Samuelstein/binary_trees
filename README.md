@@ -38,4 +38,11 @@
 |122-array_to_avl.c|A function that builds an AVL tree from an array.|
 |123-avl_remove.c|A function that removes a node from an AVL tree.|
 |124-sorted_array_to_avl.c|A function that builds an AVL tree from an array.|
+|125-O|Big O notations of the average time complexities of those operations on an AVL Tree.|
+|130-binary_tree_is_heap.c|A function that checks if a binary tree is a valid <a href="https://en.wikipedia.org/wiki/Binary_heap">Max Binary Heap</a>.|
+|131-heap_insert.c|A function that inserts a value in Max Binary Heap.|
+|132-array_to_heap.c|A function that builds a Max Binary Heap tree from an array.|
+|133-heap_extract.c|A function that extracts the root node of a Max Binary Heap.|
+|134-heap_to_sorted_array.c|A function that converts a Binary Max Heap to a sorted array of integers.|
+|135-O|Big O notations of the average time complexities of those operations on a Binary Heap.|
 |binary_trees.h|The header file.|
